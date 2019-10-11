@@ -1,0 +1,30 @@
+{
+  "name": "gym-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinSandstrom/gym-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinSandstrom/gym-next/issues"
+  },
+  "homepage": "https://github.com/MartinSandstrom/gym-next#readme",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "mdbreact": "^4.21.0",
+    "next": "^9.1.1",
+    "node-sass": "^4.12.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
